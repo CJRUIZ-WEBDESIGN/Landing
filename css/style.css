@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "raleway", Sans-serif;
+}
+
+/* Colores de la Estructura del Sitio.*/
+/* Colores: */
+.hero {
+    background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);}
+
+.stormy {
+  color: #494E6B;
+}
+
+.cloud {
+  color: #98878F;
+}
+
+.sunset {
+  color: #985E6D;
+}
+
+.evening {
+  color: #192231;
+}/*# sourceMappingURL=style.css.map */
